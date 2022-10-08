@@ -9,8 +9,6 @@ The goal of this lab exercise is to build a model-based centralized distributed 
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes.
 
 ### Prerequisites
 
